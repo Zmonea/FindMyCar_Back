@@ -1,0 +1,73 @@
+module.exports = [
+   {
+      make: 'Ford',
+      model: 'F-150 Raptor',
+      year: '2022',
+      color: 'Black',
+      image: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ford-f-150-raptor-102-1612285321.jpg?crop=0.515xw:0.517xh;0.316xw,0.349xh&resize=1200:*',
+      price: '79430',
+   }, {
+      make: 'RAM',
+      model: '1500 TRX',
+      year: '2021',
+      color: 'White',
+      image: 'https://cdn.motor1.com/images/mgl/P4Q2A/s1/2021-ram-trx-exterior.jpg',
+      price: '90830',
+   }, {
+      make: 'Toyota',
+      model: 'Tundra TRDPRO',
+      year: '2022',
+      color: 'White',
+      image: 'https://www.thedrive.com/content/2021/09/TRD-Pro-Hero.jpg?quality=85&width=1440&quality=70',
+      price: '65351',
+   }, {
+      make: 'Ford',
+      model: 'Bronco Raptor',
+      year: '2021',
+      color: 'Orange',
+      image: 'https://www.motortrend.com/uploads/sites/5/2021/05/2021-ford-bronco-exterior-01.jpg',
+      price: '48840',
+   }, {
+      make: 'Jeep',
+      model: 'Wrangler Rubicon',
+      year: '2021',
+      color: 'Red',
+      image: 'https://www.kbb.com/wp-content/uploads/2021/04/2021-jeep-wrangler-4xe-front-3qtr-16x9-1.jpg?w=763',
+      price: '72785',
+   }, {
+      make: 'Toyota',
+      model: 'Supra',
+      year: '2021',
+      color: 'Blue',
+      image: 'https://cdn.motor1.com/images/mgl/Q0AK3/s1/2021-toyota-supra-a91-edition.webp',
+      price: '57836',
+   }, {
+      make: 'BMW',
+      model: 'M4 Coupe',
+      year: '2019',
+      color: 'White',
+      image: 'https://i.pinimg.com/originals/08/75/0f/08750f73e9514bdb3b914ee6b12428f0.jpg',
+      price: '71941',
+   }, {
+      make: 'Ford',
+      model: 'Mustang GT350R',
+      year: '2020',
+      color: 'Black',
+      image: 'https://www.mustang6g.com/forums/attachments/50394354721_24f6c2023a_c-jpg.510799/',
+      price: '86995',
+   }, {
+      make: 'Porsche',
+      model: '911 Turbo S',
+      year: '2021',
+      color: 'Red',
+      image: 'https://images.autotrader.com/hn/c/6a0951a2415742d4a148a00ff59428f8.jpg',
+      price: '239685',
+   }, {
+      make: 'Dodge',
+      model: 'Challenger SRT Hellcat Redeye',
+      year: '2019',
+      color: 'White',
+      image: 'https://images.autotrader.com/hn/c/257af4ca740e40109c70fa342e467d99.jpg',
+      price: '86999',
+   }
+]
