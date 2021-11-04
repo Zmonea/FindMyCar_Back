@@ -32,6 +32,10 @@ db.on('disconnected', () => console.log('mongo disconnected'));
 const carsController = require('./controllers/cars.js')
 app.use('/cars', carsController)
 
+app.get('/', (req,res) => {
+   res.send('Hello World')
+})
+
 //Listener
 app.listen(PORT, () => {
   console.log('Cars are Listening...', PORT);
