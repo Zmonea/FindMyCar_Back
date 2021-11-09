@@ -28,6 +28,8 @@ Issues Along The Way:
 Unsolved Problems:
 ------------------
 1. When logged in, if user creates new car, it auto logs the user out when you submit new car info.
+2. When attempting to create the Search Bar,  ran into an issue of being able to pass in the props but could not find a direct way to return a filter list based on what was in a different sibling component.
+
 
 Future Improvements:
 -------------------
