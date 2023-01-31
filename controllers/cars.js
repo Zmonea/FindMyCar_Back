@@ -33,7 +33,7 @@ router.delete('/:id', (req,res) => {
 })
 
 // Seed Route
-router.get('/seed', (req, res) => {
+router.post('/seed', (req, res) => {
    Cars.create(carSeed, (error, data) => {
       res.redirect('/cars')
    })
